@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Prakhar Gupta
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Backend Engineer 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://media.licdn.com/dms/image/C5103AQHwS_5jgm2GRg/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=tP1WUuqgjWIwJ0tPUdKI2kZW5pJ5UWJ0eU6q6JiUO0w
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: soccer3056
   instagram:
-  linkedin:
+  linkedin: prakhargupta47
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
